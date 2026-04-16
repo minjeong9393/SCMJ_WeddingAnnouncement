@@ -572,7 +572,7 @@ a {
    Calendar Section
    ═══════════════════════════════════════════ */
 .background-ring {
-  background: url(images/invite.jpg) no-repeat center;
+  background: url(./images/invite.jpg) no-repeat center;
   height: 800px;
   width: 100%;
   object-fit: cover;

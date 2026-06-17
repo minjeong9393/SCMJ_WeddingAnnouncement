@@ -574,7 +574,7 @@ a {
   background: url(./images/invite0.jpg) no-repeat center;
   height: 800px;
   width: 100%;
-  object-fit: cover;
+  background-size: cover;
 }
 
 .calendar-section {

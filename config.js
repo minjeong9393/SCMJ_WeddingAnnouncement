@@ -65,14 +65,14 @@ const CONFIG = {
   // ── 마음 전하실 곳 ──
   accounts: {
     groom: [
-      { role: "신랑", name: "허신철", bank: "국민은행", number: "000-000-000000" },
-      { role: "아버지", name: "허용길", bank: "신한은행", number: "000-000-000000" },
-      { role: "어머니", name: "강성남", bank: "우리은행", number: "000-000-000000" }
+      { role: "신랑", name: "허신철", bank: "하나은행", number: "585-910334-27307" },
+      { role: "아버지", name: "허용길", bank: "신한은행", number: "110-313-907051" },
+      { role: "어머니", name: "강성남", bank: "농협은행", number: "302-05-220165-11" }
     ],
     bride: [
       { role: "신부", name: "김민정", bank: "카카오뱅크", number: "3333-11-6598687" },
-      { role: "아버지", name: "김광석", bank: "기업은행", number: "000-000-000000" },
-      { role: "어머니", name: "임명주", bank: "농협은행", number: "000-000-000000" }
+      { role: "아버지", name: "김광석", bank: "대구은행", number: "069-08-0063-41" },
+      { role: "어머니", name: "임명주", bank: "대구은행", number: "205-08-023703-8" }
     ]
   },
 
@@ -80,6 +80,6 @@ const CONFIG = {
   meta: {
     title: "･:*:･ﾟ𝑺𝑪&𝑴𝑱･:*:･ﾟ",
 
-    description: "[허신철♥김민정]새로운 시작을 전합니다."
+    description: "[허신철♥김민정] 새로운 시작을 전합니다."
   }
 };

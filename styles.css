@@ -357,6 +357,7 @@ a {
 
 .section__inner {
   max-width: 640px;
+  min-height: 437px;
   margin: 0 auto;
   padding: 0 var(--spacing-md);
   text-align: center;
